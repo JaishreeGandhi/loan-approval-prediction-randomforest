@@ -23,7 +23,9 @@ This project predicts whether a loan application will be approved based on appli
 
 ## 📁 Repository Structure
 ├── Loan_Approval_Prediction.ipynb # Main Notebook
-├── train.csv # Dataset (or Kaggle link)
+
+├── train.csv # Dataset
+
 └── README.md # Project Summary
 
 
